@@ -1,0 +1,20 @@
+.articles{
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: CENTER;
+}
+.articles-main{
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.articles-others{
+    width: 50%;
+}
+header{
+    display: flex  ;
+    justify-content: center;
+    
+}

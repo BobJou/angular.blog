@@ -1,0 +1,24 @@
+.div_small-card{
+    
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+}
+.imagem{
+    max-width: 200px;
+    max-height: 100px;
+}
+.div-imagem{
+    width: 50%;
+    min-width: 200px;
+    
+}
+.titulo{
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+hr{
+    margin-top: 5px;
+}

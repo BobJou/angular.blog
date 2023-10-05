@@ -1,0 +1,14 @@
+.div_menu-bar{
+
+  padding-top: 10px;
+}
+
+.div_menu-bar> ul{
+    display: flex;
+    flex-direction: row;
+}
+.div_menu-bar >ul > li{
+    list-style: none;
+    margin-right: 10px;
+}
+

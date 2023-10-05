@@ -1,0 +1,15 @@
+h1.titulo{
+    color: white;
+}
+.div_menu-title > h1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 150px;
+    display: flex;
+    font-weight: bolder;
+    justify-content: center;
+}
+.div_menu-title > hr{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
