@@ -13,6 +13,7 @@
 }
 .big-card_titulo >h2{
     margin-top: 10px;
+ 
     font-size: 37px;
 }
 .big-card_descrição >p{
@@ -24,4 +25,7 @@
 }
 a{
     text-decoration: none;
+}
+img{
+    box-shadow: 5px 10px 10px rgb(24, 0, 54);
 }

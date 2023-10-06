@@ -9,5 +9,6 @@ export class BigCardComponent {
   @Input() foto:string =''
   @Input() titulo :string='';
   @Input() descricao: string='';
+  @Input() id:string="0"
 t: any;
 }

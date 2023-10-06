@@ -8,8 +8,12 @@ h1.titulo{
     display: flex;
     font-weight: bolder;
     justify-content: center;
+    text-decoration: underline 4px;
 }
 .div_menu-title > hr{
     margin-top: 15px;
     margin-bottom: 15px;
+}
+hr{
+    box-shadow: 5px 10px 10px rgb(24, 0, 54);
 }

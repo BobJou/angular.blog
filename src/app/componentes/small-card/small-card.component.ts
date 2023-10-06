@@ -8,5 +8,6 @@ import { Component, Input } from '@angular/core';
 export class SmallCardComponent {
   @Input() linkImagem:string =""
   @Input() tituloDescritivo: string= "";
+  @Input() id:string="0"
  
 }
